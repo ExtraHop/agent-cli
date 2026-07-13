@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.0.111] - 2026-07-13
+
+### Changed
+
+- Update Go build to 1.26.5
+
 ## [0.0.107] - 2026-05-29
 
 ### Added
