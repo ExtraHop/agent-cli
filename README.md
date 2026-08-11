@@ -2,6 +2,8 @@
 
 `excli` invokes the ExtraHop tools from a shell with JSON input and output. It is intended for context optimization, shell pipelining, and terminal workflows. The tool set is identical to `exmcp`, and [ExtraHop/agent-mcp](https://github.com/ExtraHop/agent-mcp) documentation is generally applicable.
 
+**Requires ExtraHop firmware 26.3 or later. For earlier firmware versions, see the [0.0.111 release](https://github.com/ExtraHop/agent-cli/tree/bf5c541bf3880a41ef1fc5198f913993cf3a2b9a/dist).**
+
 ## Usage
 
 ```text

@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## [0.0.161] - 2026-08-11
 
+**Requires ExtraHop firmware 26.3 or later. For earlier firmware versions, see the [0.0.111 release](https://github.com/ExtraHop/agent-cli/tree/bf5c541bf3880a41ef1fc5198f913993cf3a2b9a/dist).**
+
 ### Added
 
 - EQL detection log search (`search_detectionlogs`)
@@ -24,7 +26,7 @@ All notable changes to this project will be documented in this file.
   ID-only results
 - **Breaking:** `search_devices` and `search_detections` return REST results
   under `body`, omit pagination metadata, and use REST API default limits
-- Recommend ExtraHop firmware 26.3 or later for optimal functionality
+- ExtraHop Firmware version 26.3 or later is now required.
 
 ### Removed
 
